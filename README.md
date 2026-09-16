@@ -20,7 +20,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 I'm a **2nd Year Computer Science Engineering Student** passionate about building intelligent software using **Artificial Intelligence, Machine Learning and Data Science.**
 
@@ -34,7 +34,7 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -44,19 +44,19 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 📊 GitHub Dashboard
+## 📌 GitHub Highlights
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhankumar-cse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://img.shields.io/github/followers/Madhankumar-cse?style=for-the-badge&logo=github&label=Followers"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhankumar-cse&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=Madhankumar-cse&style=for-the-badge&color=2563EB"/>
 
 </div>
 
 ---
 
-# ⚡ GitHub Streak
+## ⚡ GitHub Streak
 
 <div align="center">
 
@@ -66,17 +66,7 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 🏆 GitHub Trophy Cabinet
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Madhankumar-cse&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -86,7 +76,7 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - Artificial Intelligence
 - Machine Learning
@@ -99,7 +89,7 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
@@ -110,7 +100,7 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 💡 Coding Profiles
+## 💡 Coding Profiles
 
 <div align="center">
 
@@ -126,7 +116,7 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 🧩 LeetCode Card
+## 🧩 LeetCode Card
 
 <div align="center">
 
@@ -136,7 +126,7 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -156,14 +146,14 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhankumar-cse/Madhankumar-cse/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhankumar-cse/Madhankumar-cse/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Madhankumar-cse/Madhankumar-cse/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Madhankumar-cse/Madhankumar-cse/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
