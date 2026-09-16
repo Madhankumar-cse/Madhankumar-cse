@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Madhan%20Kumar%20SL&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20Aspirant%20|%20Data%20Science%20Student&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=240&section=header&text=Madhan%20Kumar%20SL&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20Aspirant%20|%20Data%20Science%20Student&descAlignY=72"/>
 
 # 👋 Hi, I'm Madhan Kumar SL
 
-### AI Engineer Aspirant • Data Science Student • Oracle Certified
+### AI Engineer Aspirant • Data Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Machine+Learning+Explorer;Python+%7C+Java+Developer;Oracle+Certified+Foundations+Associate"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+AI+Projects;Machine+Learning+Explorer;Python+%7C+Java+Developer;Future+AI+Engineer"/>
 
 <br>
 
@@ -22,16 +22,15 @@
 
 # 🚀 About Me
 
-I'm a **2nd Year Computer Science Engineering Student** passionate about building intelligent software using **Artificial Intelligence, Machine Learning, and Data Science**.
+I'm a **2nd Year Computer Science Engineering Student** passionate about building intelligent software using **Artificial Intelligence, Machine Learning and Data Science.**
 
 - 🎓 2nd Year CSE Student
 - 🤖 AI Engineer Aspirant
-- 🏆 Oracle Fusion AI Agent Studio Certified Foundations Associate
 - 🐍 Python Developer
 - ☕ Java Programmer
 - 📊 Data Science Enthusiast
 - 🚀 Building AI Projects & Hackathon Solutions
-- 📚 Consistently practicing DSA
+- 📚 Daily DSA Practice
 
 ---
 
@@ -67,23 +66,21 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 ---
 
-# 📈 Contribution Activity
+# 🏆 GitHub Trophy Cabinet
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhankumar-cse&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Madhankumar-cse&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 🏅 Certifications
+# 📈 Contribution Activity
 
 <div align="center">
 
-| Certification | Provider |
-|---------------|----------|
-| Oracle Fusion AI Agent Studio Certified Foundations Associate | Oracle University |
+<img src="https://ghchart.rshah.org/2563EB/Madhankumar-cse" alt="GitHub Contribution Chart"/>
 
 </div>
 
