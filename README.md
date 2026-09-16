@@ -1,26 +1,20 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Madhan%20Kumar%20SL&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20Aspirant%20|%20Data%20Science%20Student&descAlignY=70"/>
+
 # 👋 Hi, I'm Madhan Kumar SL
 
 ### AI Engineer Aspirant • Data Science Student • Oracle Certified
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Building+AI+Projects;Machine+Learning+Explorer;Python+%7C+Java+%7C+GitHub;Oracle+Certified+Foundations+Associate;Future+AI+Engineer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Machine+Learning+Explorer;Python+%7C+Java+Developer;Oracle+Certified+Foundations+Associate"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Madhankumar-cse&style=for-the-badge&color=2563EB"/>
-
 <a href="https://github.com/Madhankumar-cse">
-<img src="https://img.shields.io/github/followers/Madhankumar-cse?style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/Madhankumar-cse?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mkmadhan007">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:madhankumarofficial007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Madhankumar-cse&style=for-the-badge&color=2563EB"/>
 
 </div>
 
@@ -28,11 +22,11 @@
 
 # 🚀 About Me
 
-I'm a **2nd Year Computer Science Engineering Student** passionate about building intelligent software using **Artificial Intelligence, Machine Learning and Data Science**.
+I'm a **2nd Year Computer Science Engineering Student** passionate about building intelligent software using **Artificial Intelligence, Machine Learning, and Data Science**.
 
 - 🎓 2nd Year CSE Student
 - 🤖 AI Engineer Aspirant
-- 🏆 Oracle Certified Foundations Associate
+- 🏆 Oracle Fusion AI Agent Studio Certified Foundations Associate
 - 🐍 Python Developer
 - ☕ Java Programmer
 - 📊 Data Science Enthusiast
@@ -55,9 +49,9 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhankumar-cse&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhankumar-cse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhankumar-cse&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhankumar-cse&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -67,17 +61,7 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Madhankumar-cse&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy Cabinet
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Madhankumar-cse&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://streak-stats.demolab.com?user=Madhankumar-cse&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -87,7 +71,7 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhankumar-cse&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhankumar-cse&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -160,37 +144,29 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mkmadhan007">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:madhankumarofficial007@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Madhankumar-cse">
-<img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/madhankumarcse/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/madhankumaroffi2">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-# 🐍 Premium Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhankumar-cse/Madhankumar-cse/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhankumar-cse/Madhankumar-cse/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Madhankumar-cse/Madhankumar-cse/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Madhankumar-cse/Madhankumar-cse/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -204,3 +180,5 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 *"Turning ideas into intelligent solutions."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
