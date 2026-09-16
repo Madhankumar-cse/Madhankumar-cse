@@ -1,3 +1,8 @@
+## 📢 Latest LinkedIn Post
+
+<!-- LINKEDIN_POST_START -->
+⏳ Fetching latest LinkedIn post...
+<!-- LINKEDIN_POST_END -->
 <div align="center">
 
 # Madhan Kumar SL
