@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm a **2nd Year Computer Science Engineering Student** passionate about building intelligent software using **Artificial Intelligence, Machine Learning and Data Science.**
+I'm a **2nd Year Computer Science Engineering Student** passionate about building intelligent software using **Artificial Intelligence, Machine Learning, and Data Science**.
 
 - 🎓 2nd Year CSE Student
 - 🤖 AI Engineer Aspirant
@@ -141,16 +141,6 @@ I'm a **2nd Year Computer Science Engineering Student** passionate about buildin
 <a href="https://github.com/Madhankumar-cse">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/Madhankumar-cse/Madhankumar-cse/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
