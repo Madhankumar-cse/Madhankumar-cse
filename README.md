@@ -1,7 +1,7 @@
 ## 📢 Latest LinkedIn Post
 
 <!-- LINKEDIN_POST_START -->
-⏳ Fetching latest LinkedIn post...
+No recent LinkedIn post found.
 <!-- LINKEDIN_POST_END -->
 <div align="center">
 
